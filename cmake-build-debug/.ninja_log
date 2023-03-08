@@ -1,0 +1,7 @@
+# ninja log v5
+1	68	6999891075642235	CMakeFiles/test.dir/main.c.obj	d0dadfc6bfd42ae9
+69	161	6999891076549078	test.exe	2b60a79e3c7e52f5
+2	77	6999899670452161	CMakeFiles/test.dir/main.c.obj	d0dadfc6bfd42ae9
+77	170	6999899671348647	test.exe	2b60a79e3c7e52f5
+2	86	6999906678111145	CMakeFiles/test.dir/main.c.obj	d0dadfc6bfd42ae9
+86	192	6999906679132699	test.exe	2b60a79e3c7e52f5
